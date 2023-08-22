@@ -1,0 +1,31 @@
+/* .table-striped{
+    background-color: rgb(208, 240, 187); 
+    color: white; 
+} */
+
+.ofr-date
+{
+    width: 420px;
+    height: 35px;
+    border-radius: 5px;
+    margin: 10px;
+    border-color: rgb(62, 63, 63);
+}
+
+.ofr-table-head
+{
+    width: 180px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.ofr-table-body
+{
+    width: 180px;
+    background-color: rgb(196, 231, 167);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin-left: 10px;
+}

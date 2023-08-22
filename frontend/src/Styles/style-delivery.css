@@ -1,0 +1,414 @@
+/*Register.js*/
+.Del-Reg-title{
+  background-color: #82ae46;
+  color: aliceblue;
+  padding: 12px;
+  padding-top: 20px;
+  border-radius: 7px;
+}
+
+
+.Del-Reg-box{
+    background-color: rgb(18, 191, 56);
+    
+    border-radius: 6px;
+    margin-top: 40px;
+    padding-top: 10px;
+    padding: 20px;
+    font-size: larger;
+    font-weight: bold;
+   
+    
+}
+
+
+.form-check{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: large;
+}
+
+.del-btn-create{
+  padding: 5px;
+  height:60px ;
+  width: 170px;
+  color: rgb(246, 246, 253);
+  background-color: #399021;
+  border-radius: 10px;
+  margin: 10px;
+  border: none;
+  font-weight: bold;
+}
+
+.del-btn-create:hover{
+  padding: 5px;
+  height:60px ;
+  width: 170px;
+  color: rgb(246, 246, 253);
+  background-color: #66eb42;
+  border-radius: 10px;
+  margin: 10px;
+  border: none;
+  font-weight: bold;
+}
+
+/* Dashboard.js   Dashboard.js    Dashboard.js    Dashboard.js    Dashboard.js    Dashboard.js
+Dashboard.js        Dashboard.js   Dashboard.js   Dashboard.js          Dashboard.js   Dashboard.js */
+
+.Del-dash-box{
+  background-color: #50AB36;
+  margin: none;
+}
+
+.del-btn-dashboard{
+  height:70px ;
+  width: 320px;
+  color: aliceblue;
+  background-color: #50AB36;
+  border-radius: 15px;
+  margin: 10px;
+  border: none;
+  font-size: 22px;
+  
+}
+
+.del-btn-dashboard:hover{
+  height:70px ;
+  width: 320px;
+  color: aliceblue;
+  background-color: #368a1e;
+  border-radius: 15px;
+  margin: 10px;
+  border: none;
+  
+}
+
+.db-btn-whitebox{
+  width: 50px;
+  height: 370px;
+  background-color: #f8f8f7;
+  border-radius: 6px;
+  margin-top: 30px;
+  margin-left: 40px;
+  padding-top: 55px;
+}
+
+.deliveryimg{
+  padding-left: 80px;
+  padding-bottom: 110px;
+}
+
+.del-dash-title{
+  padding-top: 50px;
+  color: aliceblue;
+  font-size: 52px;
+  margin-left: 30px;
+  
+}
+
+/*edit.js    edit.js    edit.js    edit.js    edit.js    edit.js    edit.js    edit.js    */
+
+.Del-editprofile-title{
+  
+  padding: 15px;
+  background-color: #82ae46;
+  color: aliceblue;
+
+}
+
+.Del-edit-box{
+  font-size: larger;
+  font-weight: bold;
+  background-color: #50AB36;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+  border-radius: 7px;
+  
+}
+
+.Del-btn-editSave{
+  margin-top: 20px;
+  background-color: #137e5e;
+  color: aliceblue;
+  border-radius: 7px;
+  font-weight: bold;
+  width: 130px;
+  height: 60px;
+  border: none;
+  
+}
+
+.Del-btn-editSave:hover{
+  margin-top: 20px;
+  background-color: #56d8b1;
+  color: aliceblue;
+  border-radius: 7px;
+  font-weight: bold;
+  width: 130px;
+  height: 60px;
+  border:none;
+}
+
+
+
+/*Generate Report Generate Report     Generate Report   Generate Report   Generate Report  
+        Generate Report       Generate Report    Generate Report     Generate Report    */
+
+.Del-Generate-btn{
+    width: 180px;
+    height: 60px;
+    margin-bottom: 10px;
+    margin-left: 750px;
+    margin-top: 10px;
+    background-color: #58be3c;
+    color: #1e1f1e;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.Del-Generate-btn:hover{
+  width: 180px;
+  height: 60px;
+  margin-bottom: 10px;
+  margin-left: 750px;
+  margin-top: 10px;
+  background-color: #3da820;
+  color: #cbe6dc;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.Del-Home-btn{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 60px;
+    width: 120px;
+    background-color: #b1bdad;
+    color: #1e1f1e;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
+.Del-Search{
+  
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 1200px;
+}
+
+.del-table:hover{
+  background-color: #9ee4a4;
+}
+
+.Del-table{
+  margin-top: 8px;
+}
+.Del-report-box{
+  background-color: #cbe6dc;
+}
+
+.DelReport-btn-delete{
+  background-color: rgb(238, 62, 62);
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.DelReport-btn-delete:hover{
+  background-color: rgb(158, 30, 30);
+  border: none;
+  color: rgb(230, 227, 227);
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.DelReport-btn-edit {                 /*edit button   edit button   edit button  edit button  */
+  background-color: rgb(22, 179, 35);
+  border: none;
+  color: white;
+  padding-top: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  
+  font-size: 16px;
+  cursor: pointer;
+}  
+
+  .DelReport-btn-edit:hover{
+  background-color: rgb(88, 227, 49);
+  border: none;
+  color: rgb(230, 227, 227);
+  padding-top: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Delivery profile.js   Delivery profile.js     Delivery profile.js   Delivery profile.js 
+            Delivery profile.js               Delivery profile.js         Delivery profile.js   */
+.Del-profile-Box{
+  background-color: #aeefb1;
+  padding: 30px;
+  border-radius: 7px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Del-profile-title{
+  background-color: #82ae46;
+  color: aliceblue;
+  padding: 10px;
+}
+
+.Del-btn-profEdt{
+  margin-top: 20px;
+  margin-right: 40px;
+  font-weight: bold;
+  width: 90px;
+  height: 50px;
+  background-color: #18ab75;
+  border-radius: 5px;
+  border: none;
+  color: aliceblue;
+  
+}
+
+.Del-btn-profback{
+  margin-top: 20px;
+  width: 120px;
+  height: 50px;
+  font-weight: bold;
+  margin-right: 200px;
+  background-color: #4ec52d;
+  border-radius: 5px;
+  border: none;
+  color: aliceblue;
+  
+  
+}
+
+.Del-btn-profDelete{
+  margin-top: 20px;
+  width: 170px;
+  height: 50px;
+  font-weight: bold;
+  background-color: #ce2a46;
+  border-radius: 5px;
+  border: none;
+  color: aliceblue;
+  
+  
+}
+
+/*login.js  Login.js   Login.js    Login.js    Login.js   Login.js  Login.js    Login.js */
+
+.Del-Login-title{
+  text-align: center;
+  margin-top: 6px;
+  color: #495057;
+  padding-top: 19px;
+  font-weight: bold;
+}
+
+.Del-login-box{
+  background: white;
+  border-radius: 1.5rem;
+}
+
+.Del-login-form{
+  margin-top: 8%;
+}
+
+.Del-email{
+  margin-right: 25px;
+  font-weight: bold;
+}
+
+.Del-password{
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+.Del-btn-Login{
+  margin:5%;
+  background-color: #50AB36;
+  border-radius: 7px;
+  color: white;
+  text-align: center;
+  border: none;
+  
+  padding: 1%;
+  font-weight: 600;
+  width: 20%;
+  cursor: pointer;
+  float: center;
+}
+
+.Del-btn-create{
+  margin:5%;
+  background-color: #50AB36;
+  border-radius: 7px;
+  color: white;
+  text-align: center;
+  border: none;
+  
+  padding: 1%;
+  font-weight: 600;
+  width: 20%;
+  cursor: pointer;
+  float: center;
+}
+
+
+/* Delivery admin report   Delivery admin report   Delivery admin report  Delivery admin report */
+
+.Del-title{
+  margin-top: 20px;
+  margin-left: 4px;
+  color: aliceblue;
+}
+
+.Del-Generate-btn2{
+  width: 180px;
+  height: 60px;
+  background-color:#18ab75 ;
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-top: 15px;
+  border: none;
+}
+
+.Del-Search2{
+  
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 1000px;
+  
+}
+
+.Del-table2{
+  margin-top: 8px;
+  margin-top: 20px;
+}
+.Del-report-box2{
+  background-color: #a9fbdd;
+  margin-top: 20px;
+}
+
+.Del-Gen-Report2-box{
+  background-color: #06812f;
+  height: 90px;  
+  
+}

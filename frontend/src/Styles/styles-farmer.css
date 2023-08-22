@@ -1,0 +1,412 @@
+/* farmerlogincss */
+
+.farmerLogin{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+	margin-bottom: 2%;
+    padding: 3%;
+}
+
+.farmerLog-heading{
+    text-align: center;
+    color: #495057;
+    padding-top: 5%;
+    font-size: 40px;
+}
+
+.farmerLogin-all{
+    background: white;
+    border-radius: 1.5rem;
+}
+
+.farmerLogin .farmerLogin-form{
+    margin-top: 8%;
+    font-size: 18px;
+}
+
+.farmer_email{
+    margin-right: 25px;
+}
+
+.farmer_pwd{
+    margin-right: 15px;
+
+}
+
+.btn-farmerLogin{
+    margin:5%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 1%;
+    font-weight: 600;
+    width: 20%;
+    cursor: pointer;
+    float: center;
+}
+
+/* registercss */
+
+.farmerRegister{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 3%;
+}
+.farmerRegister-left{
+    text-align: center;
+    color: #fff;
+    margin-top: 4%;
+}
+.farmerRegister-left input{
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    width: 60%;
+    background: #f8f9fa;
+    font-weight: bold;
+    color: #383d41;
+    margin-top: 30%;
+    margin-bottom: 3%;
+    cursor: pointer;
+}
+.farmerRegister-right{
+    background: #f8f9fa;
+    border-radius: 1.5rem;
+}
+.farmerRegister-left p{
+    font-weight: lighter;
+    padding: 12%;
+    margin-top: -9%;
+}
+.farmerRegister .register-form{
+    padding: 10%;
+    margin-top: 10%;
+}
+.btn-farmerRegSubmit{
+    float: right;
+    margin-top: 10%;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    background: #50AB36;
+    color: #fff;
+    font-weight: 600;
+    width: 40%;
+    cursor: pointer;
+}
+
+.farmerRegister-heading{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: -15%;
+    color: #495057;
+    font-size: 36px;
+}
+
+/* profilecss */
+
+.farmerProfile{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+	margin-bottom: 2%;
+    padding: 3%;
+}
+.farmerProfile-left{
+   background: #f8faf8;
+   border-radius: 1.5rem;
+
+}
+
+.farmerProfile-right{
+    background: #f8f9fa;
+    border-radius: 1.5rem;
+}
+
+.farmerProfile .farmerProfile-form{
+	padding: 10%;
+    margin-top: 10%;
+}
+
+.farmerProfile-form .form-groupFarmer{
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.user-avatarFarmer{
+  margin: 20px;
+  align-items: center;
+}
+
+.button-farmerDash{
+margin:8%;
+background-color: #50AB36;
+border-radius: 1.5rem;
+color: white;
+text-align: center;
+border: none;
+border-radius: 1.5rem;
+padding: 2%;
+font-weight: 600;
+width: 60%;
+cursor: pointer;
+float: center;
+}
+
+.button-farmerEdt{
+margin:8%;
+background-color: #50AB36;
+border-radius: 1.5rem;
+color: white;
+text-align: center;
+border: none;
+border-radius: 1.5rem;
+padding: 2%;
+font-weight: 600;
+width: 60%;
+cursor: pointer;
+float: center;
+}
+
+.button-farmerChange{
+margin:8%;
+background-color: #50AB36;
+border-radius: 1.5rem;
+color: white;
+text-align: center;
+border: none;
+border-radius: 1.5rem;
+padding: 2%;
+font-weight: 600;
+width: 60%;
+cursor: pointer;
+float: center;
+}
+
+.button-farmerDelete{
+margin:8%;
+background-color: #50AB36;
+border-radius: 1.5rem;
+color: white;
+text-align: center;
+border: none;
+border-radius: 1.5rem;
+padding: 2%;
+font-weight: 600;
+width: 60%;
+cursor: pointer;
+float: center;
+}
+
+.farmerProfile-heading{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: -15%;
+    color: #495057;
+}
+
+/* dashboardcss */
+
+.dashboardFarmer{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 3%;
+  }
+  
+  .dash-headingFarmer{
+   margin-top: 5%;
+   margin-bottom: -1%;
+   color: #495057;
+   font-size: 40px
+  }
+  
+  .dashboard-allFarmer{
+    background: #f8f9fa;
+    border-radius: 1.5rem;
+  }
+  
+  .tableFarmer{
+    padding: 40px;
+    border-color: black;
+  }
+  
+  .reportFarmer{
+    text-align: left;
+  }
+  
+  .g-reportFarmer{
+    margin-left: 40px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 1%;
+    background: #50AB36;
+    color: #fff;
+    font-weight: 600;
+    width: 15%;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 4%;
+  }
+  
+  .biddingFarmer{
+    text-align: left;
+  }
+  
+  .c-biddingFarmer{
+    margin-left: 40px;
+    margin-top: 2%;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 1%;
+    background: #50AB36;
+    color: #fff;
+    font-weight: 600;
+    width: 15%;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .searchInpFarmer{
+    font-size: 20px;
+      padding-bottom: 3%;
+      padding-top: 2%;
+      padding-left: 60%;
+  }
+
+
+  /* farmerUpdatecss */
+
+  .updateFarmer{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+	margin-bottom: 2%;
+    padding: 3%;
+}
+
+.update-allFarmer{
+    background: #f8f9fa;
+    border-radius: 1.5rem;
+}
+
+.update-headingFarmer{
+    text-align: center;
+    margin-top: 5%;
+    color: #495057;
+    font-size: 40px;
+    margin-bottom: 5%;
+}
+
+.updateFarmer .update-formFarmer{
+    margin-top: 5%;
+}
+
+.update-formFarmer .form-groupFarmerEdt{
+    margin-top: 5px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.btnFarmerEdt{
+    margin:8%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    font-weight: 600;
+    width: 40%;
+    cursor: pointer;
+    float: center;
+}
+
+/* changePWDcsss */
+
+.farmerPassword{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+	margin-bottom: 2%;
+    padding: 3%;
+}
+
+.password-allFmr{
+    background: #f8f9fa;
+    border-radius: 1.5rem;
+    width: 500px;
+    height: 500px;
+}
+
+.pwd-headingFmr{
+    text-align: center;
+    color: #495057;
+    margin-top: 8px;
+}
+
+.farmerPassword .change-pwdFmr{
+    margin-top: 10%;
+    width: 350px;
+}
+
+.cur-pwdFarmer{
+    margin-left: -70px;
+}
+
+.new-pwdFarmer{
+    margin-left: -90px;
+}
+
+.rnew-pwdFarmer{
+    margin-left: -25px;
+}
+
+.form-control{
+    margin-left: 50px;
+}
+
+.btn-cancelPwdFmr{
+    margin:8%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    font-weight: 600;
+    width: 40%;
+    cursor: pointer;
+    float: center;
+}
+
+.btn-changePwdFmr{
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    font-weight: 600;
+    width: 40%;
+    border: none;
+    cursor: pointer;
+    float: center;
+    padding: 2%;
+    color: white;
+    text-align: center;
+}

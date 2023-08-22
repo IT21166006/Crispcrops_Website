@@ -1,0 +1,195 @@
+/*edit payment*/
+
+.pay-title-edit{
+    background-color: rgb(29, 95, 61);
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    
+}
+
+.pay-box-edit{
+    background: linear-gradient(0deg, rgb(13, 201, 0) 0%, rgba(255, 255, 255, 0.751) 100%);
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+    
+}
+
+.pay-box-edit:hover{
+    background: linear-gradient(0deg, rgb(13, 201, 0) 0%, rgba(255, 255, 255, 0.751) 100%);
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+}
+
+.pay-edit-input{
+    border-radius: 7px;
+    border: none;
+    background-color: aliceblue;
+    margin: 10px;
+    width: 400px;
+    height: 80%;
+
+}
+
+
+.pay-edit-text{
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    width: 400px;
+    height: 80%;
+    font-size: 150%;
+}
+
+.pay-btn-edit-submit{
+    background-color: rgb(61, 61, 61);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 400px;
+    height: 50px;
+    margin: 20px;
+    font-size: 150%;
+    border: none;
+}
+
+.pay-btn-edit-submit:hover
+{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 400px;
+    height: 50px;
+    margin: 20px;
+    font-size: 150%;
+    border: none;
+}
+
+
+
+/*add payment*/
+
+
+
+.e-pay-title-edit{
+    background-color: rgb(27, 77, 51);
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    
+}
+
+.pay-form-box{
+    background-color: aliceblue;
+    width: auto;
+    height: auto;
+}
+
+.pay-adress-edit{
+    background-color: rgb(54, 27, 77);
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    
+}
+
+.pay-form-box{
+    background: linear-gradient(0deg, rgb(13, 201, 0) 0%, rgb(255, 255, 255) 100%);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+}
+
+
+
+.pay-input-short{
+    background-color: rgb(253, 253, 253);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+
+}
+.pay-year-input-short{
+    background-color:aliceblue;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+
+}
+
+.pay-mon-input-short{
+    background-color:aliceblue;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+
+}
+
+.pay-cvv-input-short{
+    background-color: aliceblue;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+
+}
+
+.input-short{
+    background-color: aliceblue;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+
+}
+
+.pay-title-edit{
+    background-color: rgb(0, 103, 48);
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border-radius: px;
+    
+}
+
+.pay-btn-edit-submit{
+    padding: 5px;
+}
+
+.fullform{
+    padding-left: 50px;
+}
+
+.pay-input-box
+{
+    background-color: aliceblue;
+    color: rgb(61, 61, 60);
+    width: 100%;
+    border: none;
+    height: 50px;
+    margin: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.pay-sub-total
+{
+    font-size: 25px;
+}
+

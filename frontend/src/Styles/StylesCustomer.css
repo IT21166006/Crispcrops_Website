@@ -1,0 +1,459 @@
+/*Headercustomer*/
+
+.cus_header{
+    background: #82ae46;
+}
+
+.cus_topper{
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+
+/*RegisterCustomer*/
+
+.cus_register{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 3%;
+}
+
+.cus_register-left{
+    text-align: center;
+    color: #fff;
+    margin-top: 4%;
+}
+
+.cus_register-left-input{
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    width: 60%;
+    background: #f8f9fa;
+    font-weight: bold;
+    color: #383d41;
+    margin-top: 30%;
+    margin-bottom: 3%;
+    cursor: pointer;
+}
+
+.cus_register-right{
+    background: #f8f9fa;
+    border-radius: 1.5rem;
+}
+
+.cus_register .cus_register-form{
+    padding: 5%;
+    margin-top: 5%;
+}
+
+.btn-register-cus{
+    float: right;
+    margin-top: 10%;
+    border: none;
+    border-radius: 1rem;
+    padding: 2%;
+    background: #50AB36;
+    color: #fff;
+    font-weight: 600;
+    width: 50%;
+    cursor: pointer;
+}
+
+.cus_register-heading{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: #495057;
+}
+
+.cus_login-btn{
+    float: left;
+    margin: 30%;
+    border: none;
+    border-radius: 1rem;
+    padding: 2%;
+    background: #f9faf8;
+    color: #0c0c0c;
+    font-weight: 600;
+    width: 50%;
+    cursor: pointer;
+}
+
+.form-group-cus{
+    margin-top: 5px;
+    font-size: 15px;
+    padding: 15px;
+}
+
+/*LoginCustomer*/
+
+.cus-login{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+	margin-bottom: 2%;
+    padding: 3%;
+}
+
+.cus-login-dp{
+    background: white;
+    border-radius: 1.5rem;
+}
+
+.cus-loging-header{
+    text-align: center;
+    margin-top: 2%;
+    color: #495057;
+}
+
+.cus-login .cus-login-form{
+    margin-top: 8%;
+}
+
+.cus-email{
+    margin-right: 25px;
+}
+
+.cus-pwd{
+    margin-right: 15px;
+}
+
+.cus-login-btn{
+    margin:5%;
+    background-color: #50AB36;
+    border-radius: 1rem;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 1%;
+    font-weight: 600;
+    width: 15%;
+    cursor: pointer;
+    float: center;
+}
+
+.cus-google-btn{
+    background-color: #50AB36;
+    border-radius: 1rem;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 1%;
+    font-weight: 400;
+    width: 30%;
+    cursor: pointer;
+    float: center;
+}
+
+.login-or-cus {
+    position: relative;
+    color: #aaa;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.span-or-cus {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -2px;
+    margin-left: -25px;
+    background-color: #fff;
+    width: 50px;
+    text-align: center;
+}
+
+.hr-or-cus {
+    height: 1px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+} 
+
+
+/*ProfileCustomer*/
+
+.cus-profile{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+	margin-bottom: 2%;
+    padding: 3%;
+}
+
+.cus-profile-left{
+    background: #f8faf8;
+    border-radius: 1.5rem;
+ 
+}
+ 
+ .cus-profile-right{
+     background: #f8f9fa;
+     border-radius: 1.5rem;
+ 
+}
+
+.cus-profile .cus-profile-form{
+	padding: 10%;
+    margin-top: 10%;
+}
+
+.cus-profile-form .form-group-cus{
+    margin-top: 5px;
+    font-size: 14px;
+    padding: 15px;
+}
+
+.user-avatar-cus{
+    margin: 20px;
+    width: 130px;
+    height: 130px;
+}
+
+.cus-account-btn{
+    margin:8%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 2%;
+    font-weight: 600;
+    width: 60%;
+    cursor: pointer;
+    float: center;
+}
+
+.cus-overview-btn{
+    margin:8%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 2%;
+    font-weight: 600;
+    width: 60%;
+    cursor: pointer;
+    float: center;
+}
+
+.cus-edit-btn{
+    margin:8%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 2%;
+    font-weight: 600;
+    width: 60%;
+    cursor: pointer;
+    float: center;
+}
+
+.cus-cart-btn{
+    margin:8%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 2%;
+    font-weight: 600;
+    width: 60%;
+    cursor: pointer;
+    float: center;
+}
+
+.cus-delete-btn{
+    margin:8%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 2%;
+    font-weight: 600;
+    width: 60%;
+    cursor: pointer;
+    float: center;
+}
+
+.cus-profile-heading{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: -15%;
+    color: #495057;
+}
+
+
+/*UpdateCustomer*/
+
+.cus-update{
+    background: -webkit-linear-gradient(left, #0B2F01, #50AB36);
+    border-top-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    margin-top: 2%;
+	margin-bottom: 2%;
+    padding: 3%;
+}
+
+.cus-update-dp{
+    background: #f8f9fa;
+    border-radius: 1.5rem;
+}
+
+.cus-update-heading{
+    text-align: center;
+    margin-top: 8%;
+    color: #495057;
+}
+
+.cus-update .cus-update-form{
+    margin-top: 5%;
+}
+
+.cus-update-form .cus-form-group{
+    margin-top: 5px;
+    font-size: 18px;
+    padding: 18px;
+}
+
+.cus-btn{
+    margin:2%;
+    background-color: #50AB36;
+    border-radius: 1.5rem;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    font-weight: 600;
+    width: 40%;
+    cursor: pointer;
+    float: center;
+}
+
+/*OverviewCustomer*/
+
+.icon1-cus{
+    width: 100px;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.icon2-cus{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.icon3-cus{
+    width: 100px;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.user-avatar2-cus{
+    margin: 20px;
+    width: 130px;
+    height: 130px;
+}
+
+
+.cus-offer-btn{
+    float: right;
+    margin-top: 10%;
+    border: none;
+    border-radius: 1rem;
+    padding: 2%;
+    background: #50AB36;
+    color: #fff;
+    font-weight: 600;
+    width: 40%;
+    cursor: pointer;
+}
+
+.cus-report-btn{
+    float: right;
+    margin-top: 30%;
+    border: none;
+    border-radius: 1rem;
+    padding: 2%;
+    background: #50AB36;
+    color: #fff;
+    font-weight: 600;
+    width: 40%;
+    cursor: pointer;
+}
+
+.cus-delivery-btn{
+    float: right;
+    margin-top: 30%;
+    border: none;
+    border-radius: 1rem;
+    padding: 2%;
+    background: #50AB36;
+    color: #fff;
+    font-weight: 600;
+    width: 40%;
+    cursor: pointer;
+}
+
+/*Report Generation Customer*/
+
+.cus-search{
+    margin-top: 40px;
+}
+
+.cus-pdf-btn{
+    width: 140px;
+    height:40px;
+    background-color: rgb(80, 233, 113);
+    margin-left: 950px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.cus-generate-box{
+    background-color: rgb(195, 230, 206);
+}
+
+.cus-or:hover {background-color: rgb(80, 233, 113);} 
+
+.cus-delete-btn-icon{
+    width: 40px;
+    height: 40px;
+    background-color: brown;
+    border: none;
+    color: aliceblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cus-edit-btn-icon{
+    background-color: rgb(22, 179, 35);
+    border: none;
+    color: white;
+    padding-top: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+

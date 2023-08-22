@@ -1,0 +1,141 @@
+/* ManageItems.js*/
+.stk-tableh{
+    width: 200px;
+    background-color: rgb(14, 91, 19);
+    color: aliceblue;
+    padding: 10px;
+}
+
+.stk-tableb{
+    width: 200px;
+    background-color: rgb(217, 228, 221);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+}
+.Stocktitle{
+
+    background: rgb(117, 182, 117);
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+
+}
+.StockTOPIC{
+    background: rgb(19, 94, 17);
+    color: aliceblue;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.additemg{
+    padding-left: 200px;
+
+    padding-top: 70px;
+}
+
+.stk-input-insert
+{
+    border: none;
+    border-radius: 5px;
+    width: 350px;
+    margin-bottom: 10px;
+    height: 50px;
+}
+
+.stk-lable-insert{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.stk-btn-cancel{
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: brown;
+    color:aliceblue ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.stk-btn-cancel:hover{
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(100, 24, 24);
+    color:aliceblue ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.stk-btn-add{
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(42, 118, 165);
+    color:aliceblue ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.stk-btn-add:hover{
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(28, 78, 109);
+    color:aliceblue ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.stk-dash-btn
+{
+    /*border: none;*/
+    border-color: rgb(25, 95, 4);
+    color: rgb(25, 95, 4);
+    border-radius: 5px;
+    width: 90%;
+    height: 100px;
+    margin: 20px;
+    font-size: 25px;
+}
+.stk-dash-btn:hover
+{
+    border: none;
+    /*border-color: rgb(25, 95, 4);*/
+    color: rgb(248, 248, 248);
+    background-color: rgb(25, 95, 4);
+    border-radius: 5px;
+    width: 90%;
+    height: 100px;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.stk-wdth
+{
+    width: 250px;
+}
+
+.stk-dash-box
+{
+    background-color: rgb(208, 240, 192);
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.stk-dash-box:hover
+{
+    background-color: rgb(192, 209, 240);
+    border-radius: 5px;
+    margin: 10px;
+}

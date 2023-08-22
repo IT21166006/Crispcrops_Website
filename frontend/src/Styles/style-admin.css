@@ -1,0 +1,244 @@
+
+/*crips crops image*/
+.admin-dashimage{
+   max-width: 100%;
+   height: auto;
+
+}
+/*AdminDashboard.js*/
+.admn-btn-dash{
+    border-color: rgb(10, 82, 3);
+    border-radius: 7px;
+    width: 100%;
+    height: 150px;
+    margin: 10px;
+    color: rgb(10, 82, 3);
+    font-size: 30px;
+}
+
+.admn-btn-dash:hover{
+    border-color: rgb(26, 201, 10);
+    background-color: rgb(27, 116, 5);
+    border-radius: 7px;
+    border: none;
+    width: 100%;
+    height: 150px;
+    margin: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+/*AdminProfile.js*/
+.admn-profile-bg{
+    background-color: rgb(108, 194, 111);
+    margin-top: 16px;
+    padding: 21px;
+    border-radius: 8px;
+      
+}
+
+.admn-input-log{
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.admn-lable-log{
+    font-size: 20px;
+}
+
+.admn-log-btn{
+    border: none;
+    width: 100%;
+    height: 60px;
+    border-radius: 5px;
+    background-color: rgb(2, 63, 17);
+    color: aliceblue;
+}
+
+.admn-log-btn:hover{
+    border: none;
+    width: 100%;
+    height: 60px;
+    border-radius: 5px;
+    background-color: rgb(1, 34, 9);
+    color: aliceblue;
+}
+
+.admn-log-title{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/*Manage Admin*/
+.admn-management-title{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.admn-manage-table-head
+{
+    width: 270px;
+    background-color: rgb(23, 78, 9);
+    color: aliceblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    
+}
+
+.admn-manage-table-head1
+{
+    width: 120px;
+    background-color: rgb(23, 78, 9);
+    color: aliceblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+.admn-manage-table-body
+{
+    background-color: rgb(195, 206, 216);
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.admn-manage-delete-btn
+{
+    background-color: brown;
+    color: aliceblue;
+    border: none;
+    padding: 7px;
+    width: 90%;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.admn-manage-update-btn{
+    background-color: rgb(22, 133, 8);
+    color: aliceblue;
+    border: none;
+    padding: 7px;
+    width: 90%;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+/*login btn row*/
+.sgn-btn-log
+{
+    border: nonr;
+    border-color: rgb(38, 185, 9);
+    color: rgb(38, 185, 9);
+    border-radius: 5px;
+    width: 100%;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.sign-row-btn-active
+{
+    border: nonr;
+    border-color: rgb(38, 185, 9);
+    color: rgb(255, 255, 255);
+    background-color:rgb(38, 185, 9) ;
+    border-radius: 5px;
+    width: 100%;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.sgn-btn-log:hover
+{
+    border: none;
+    border-color: rgb(38, 185, 9);
+    color: rgb(255, 255, 255);
+    background-color: rgb(9, 121, 19);
+    border-radius: 5px;
+    width: 100%;
+    height: 50px;
+    margin: 20px;
+}
+
+/*AdminLog.js*/
+.admn-log-title
+{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    text-align: center;
+}
+
+.admn-log-box
+{
+    background-color: rgb(162, 236, 147);
+    width: 100%;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.admn-login-input
+{
+    background-color: aliceblue;
+    width: 500px;
+    height: 60px;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.admn-login-btn
+{
+    background-color: rgb(4, 41, 73);
+    color: #ffffff;
+    width: 500px;
+    height: 60px;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.admn-login-btn:hover
+{
+    background-color: rgb(1, 18, 34);
+    color: #ffffff;
+    width: 500px;
+    height: 60px;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.sign-row-btn-active
+{
+    border: nonr;
+    border-color: rgb(38, 185, 9);
+    color: rgb(255, 255, 255);
+    background-color:rgb(38, 185, 9) ;
+    border-radius: 5px;
+    width: 100%;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+}

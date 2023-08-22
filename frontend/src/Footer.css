@@ -1,0 +1,33 @@
+.footer-bg
+{
+    background-color: rgb(232, 245, 212);
+    margin-top: 25px;
+    padding: 20px;
+}
+
+.footer-item
+{
+    text-align: left;
+    color: rgb(39, 38, 38);
+}
+
+.btsp-icon
+{
+    font-size: 40px;
+    color: black;
+    margin-left:50px ;
+    margin-right:50px ;
+}
+
+.btsp-icon:hover
+{
+    font-size: 40px;
+    color: rgb(5, 107, 10);
+    margin-left:50px ;
+    margin-right:50px ;
+}
+
+.header-bg-mar
+{
+    margin-bottom: 10px;
+}
